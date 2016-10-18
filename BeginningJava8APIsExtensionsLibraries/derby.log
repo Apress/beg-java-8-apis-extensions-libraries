@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 06 21:49:45 CDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0147-ae5f-464f-000000a98780 
+on database directory C:\kishori\books\Java_8\Apress\Beginning Java APIs, Extensions and Libraries\SourceCode\BeginningJava8APIsExtensionsLibraries\beginningJavaDB with class loader sun.misc.Launcher$AppClassLoader@10455d6 
+Loaded from file:/C:/java8/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_05-b13
+user.dir=C:\kishori\books\Java_8\Apress\Beginning Java APIs, Extensions and Libraries\SourceCode\BeginningJava8APIsExtensionsLibraries
+os.name=Windows 8.1
+os.arch=x86
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,2 @@
+#The factory class for the JKScript engine
+com.jdojo.script.JKScriptEngineFactory

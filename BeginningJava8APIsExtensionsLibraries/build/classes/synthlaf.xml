@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<synth version="1">
+  <style id="buttonStyle">
+    <opaque value="true"/>
+    <insets top="4" bottom="4" left="6" right="6"/>
+    <imageIcon id="closeIconId" path="/images/close_icon.png"/>
+    <property key="Button.textShiftOffset" type="Integer" value="2"/>
+    <property key="Button.icon" type="idref" value="closeIconId"/>
+    <state>
+       <font name="Serif" size="14" style="BOLD"/>
+       <color value="LIGHT_GRAY" type="BACKGROUND"/>
+       <color value="BLACK" type="TEXT_FOREGROUND"/>
+    </state>
+    <state value="PRESSED">
+            <color value="GRAY" type="BACKGROUND"/>
+            <color value="BLACK" type="TEXT_FOREGROUND"/>
+    </state>
+  </style>
+  <bind style="buttonStyle" type="region" key="Button"/>
+</synth>
